@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there 👋 
 
-<!--
-**vikussssssya/vikussssssya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm Viktoriia, a passionate Information Systems and Technologies with a focus on creating impactful and innovative projects.  
 
-Here are some ideas to get you started:
+## 👩‍💻 About Me  
+- 🌟 **What I Do**: I am an aspiring developer studying mobile development on the Android platform. 
+- 🌍 **Where I'm From**: Russia, Voronezh
+- 🌱 **Currently Learning**: Java, C#
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Education  
+📖 **Information Systems and Technologies**  
+📆 **2021 - 2025**  
+📍 **Voronezh State Technical College**  
